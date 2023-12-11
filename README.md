@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/e8f4f9eb82d79e10f727f9a61f162343/358f29a979c28ea4-77/s640x960/12c0fc659744a0eae7d92e278d2fec525ddf7f44.jpg)
+![MasterHead](https://64.media.tumblr.com/e8f4f9eb82d79e10f727f9a61f162343/358f29a979c28ea4-77/s640x960/12c0fc659744a0eae7d92e278d2fec525ddf7f44.jpg)
 <h1 align="center">Hello, Lovely Humans! 🌟✨</h1>
 <h3 align="center">Hey there! I'm Raghad 🌼 - a spirited soul with a passion for game development. </h3>
 <img align="right" alt="Coding" width="400" src="https://im3.ezgif.com/tmp/ezgif-3-c312933217.gif">
