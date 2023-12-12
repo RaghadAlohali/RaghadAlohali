@@ -1,6 +1,6 @@
 <h1 align="center">Hello, Lovely Humans! 🌟✨</h1>
 <h3 align="center">Hey there! I'm Raghad 🌼 - a spirited soul with a passion for game development. </h3>
-<img align="right" alt="Coding" width="400" src="https://im3.ezgif.com/tmp/ezgif-3-c312933217.gif">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/cc6c83956ca03be31af237eba06fce63/89006c6472ca7b96-45/s1280x1920/7f25d21f8810e17c6cb136bf93208b4d4c670b36.gifv">
 
 - My heart skips a beat for game development 🎮, and I'm bursting with excitement to craft the most captivating gaming experiences! 🌟 I'm all about bringing joy and magic through code ✨.
 
