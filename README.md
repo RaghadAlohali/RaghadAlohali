@@ -6,6 +6,6 @@
   I focus on automating business processes and optimizing systems to enhance organizational efficiency.</h3>
 
 <h4 align"center">• 📫 RaghadAAlohali@gmail.com </h4>
-  • <a href="https://linkedin.com/in/raghad a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghad a"  height="15" width="30" /></a> 
+  • <a href="https://www.linkedin.com/in/raghad-alohali-a28b042a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghad a"  height="15" width="30" /></a> 
 
 
