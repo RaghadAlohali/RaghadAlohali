@@ -1,5 +1,5 @@
 <h1 align="center">Raghad Alohali</h1>
-<h2 align="center">Computer Science Graduate | IT Solutions - Software development  </h2>
+<h2 align="center">Computer Science Graduate | IT - Software development  </h2>
 
 
 <h3 align="middle">a highly driven Computer Science graduate with a strong foundation in IT solutions, software development.
